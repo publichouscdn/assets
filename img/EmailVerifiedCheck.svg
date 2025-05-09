@@ -1,0 +1,40 @@
+<svg width="350" height="351" viewBox="0 0 350 351" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_9374_34144)">
+<rect y="0.5" width="350" height="350" rx="175" fill="#E4EBF0"/>
+<circle cx="171.354" cy="0.500164" r="7.29167" transform="rotate(90 171.354 0.500164)" fill="#B3BEC9"/>
+<circle cx="171.354" cy="29.6667" r="7.29167" transform="rotate(90 171.354 29.6667)" fill="#1C9E59"/>
+<circle cx="171.354" cy="58.8332" r="7.29167" transform="rotate(90 171.354 58.8332)" fill="#B3BEC9"/>
+<circle cx="171.354" cy="88.0002" r="7.29167" transform="rotate(90 171.354 88.0002)" fill="#B3BEC9"/>
+<circle cx="142.188" cy="0.500164" r="7.29167" transform="rotate(90 142.188 0.500164)" fill="#B3BEC9"/>
+<circle cx="142.188" cy="29.6667" r="7.29167" transform="rotate(90 142.188 29.6667)" fill="#B3BEC9"/>
+<circle cx="142.188" cy="58.8332" r="7.29167" transform="rotate(90 142.188 58.8332)" fill="#B3BEC9"/>
+<circle cx="142.188" cy="88.0002" r="7.29167" transform="rotate(90 142.188 88.0002)" fill="#B3BEC9"/>
+<circle cx="113.021" cy="0.500164" r="7.29167" transform="rotate(90 113.021 0.500164)" fill="#B3BEC9"/>
+<circle cx="83.8542" cy="0.500164" r="7.29167" transform="rotate(90 83.8542 0.500164)" fill="#B3BEC9"/>
+<circle cx="54.6875" cy="0.500164" r="7.29167" transform="rotate(90 54.6875 0.500164)" fill="#B3BEC9"/>
+<circle cx="25.5208" cy="0.500164" r="7.29167" transform="rotate(90 25.5208 0.500164)" fill="#B3BEC9"/>
+<circle cx="113.021" cy="29.6667" r="7.29167" transform="rotate(90 113.021 29.6667)" fill="#B3BEC9"/>
+<circle cx="83.8542" cy="29.6667" r="7.29167" transform="rotate(90 83.8542 29.6667)" fill="#B3BEC9"/>
+<circle cx="54.6875" cy="29.6667" r="7.29167" transform="rotate(90 54.6875 29.6667)" fill="#B3BEC9"/>
+<circle cx="25.5208" cy="29.6667" r="7.29167" transform="rotate(90 25.5208 29.6667)" fill="#B3BEC9"/>
+<circle cx="113.021" cy="58.8332" r="7.29167" transform="rotate(90 113.021 58.8332)" fill="#B3BEC9"/>
+<circle cx="83.8542" cy="58.8332" r="7.29167" transform="rotate(90 83.8542 58.8332)" fill="#B3BEC9"/>
+<circle cx="54.6875" cy="58.8332" r="7.29167" transform="rotate(90 54.6875 58.8332)" fill="#B3BEC9"/>
+<circle cx="25.5208" cy="58.8332" r="7.29167" transform="rotate(90 25.5208 58.8332)" fill="#B3BEC9"/>
+<circle cx="113.021" cy="88.0002" r="7.29167" transform="rotate(90 113.021 88.0002)" fill="#FA7472"/>
+<circle cx="83.8542" cy="88.0002" r="7.29167" transform="rotate(90 83.8542 88.0002)" fill="#B3BEC9"/>
+<circle cx="54.6875" cy="88.0002" r="7.29167" transform="rotate(90 54.6875 88.0002)" fill="#B3BEC9"/>
+<circle cx="25.5208" cy="88.0002" r="7.29167" transform="rotate(90 25.5208 88.0002)" fill="#B3BEC9"/>
+<path d="M120.313 372.375C188.773 372.375 244.271 316.877 244.271 248.417C244.271 179.957 188.773 124.458 120.313 124.458C51.8522 124.458 -3.64584 179.957 -3.64584 248.417C-3.64584 316.877 51.8522 372.375 120.313 372.375Z" fill="#0048AF"/>
+<path d="M157.555 324.457C218.394 324.457 267.714 275.605 267.714 215.343C267.714 155.081 218.394 106.229 157.555 106.229C96.7157 106.229 47.3958 155.081 47.3958 215.343C47.3958 275.605 96.7157 324.457 157.555 324.457Z" fill="#2F80ED"/>
+<path d="M225.08 160.917C209.044 140.913 184.403 128.104 156.771 128.104C147.893 128.104 139.324 129.426 131.25 131.884M96.6146 152.063C100.541 148.344 104.812 144.985 109.375 142.04" stroke="white" stroke-width="10.9375" stroke-linecap="round"/>
+<path d="M69.2708 215.604C69.2708 263.929 108.446 303.104 156.771 303.104C178.312 303.104 198.036 295.32 213.281 282.411" stroke="#0048AF" stroke-width="10.9375" stroke-linecap="round"/>
+<path d="M131.25 215.735L146.124 231.991C148.372 234.448 152.016 234.448 154.265 231.991L185.938 197.375" stroke="white" stroke-width="10.9375" stroke-linecap="round"/>
+<path d="M306.25 84.3543C281.641 84.3543 257.031 111.015 257.031 131.75C257.031 111.015 232.422 84.3543 207.813 84.3543C232.422 84.3543 257.031 60.6564 257.031 36.9585C257.031 60.6564 281.641 84.3543 306.25 84.3543Z" fill="#FFAE41"/>
+</g>
+<defs>
+<clipPath id="clip0_9374_34144">
+<rect y="0.5" width="350" height="350" rx="175" fill="white"/>
+</clipPath>
+</defs>
+</svg>

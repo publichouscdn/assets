@@ -1,0 +1,48 @@
+<svg width="122" height="134" viewBox="0 0 122 134" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" width="121" height="134" rx="5" fill="white"/>
+<g style="mix-blend-mode:luminosity" opacity="0.5">
+<g clip-path="url(#clip0_10502_53556)">
+<rect x="13" y="19" width="96" height="96" rx="48" fill="#E4EBF0"/>
+<rect x="-6" y="64.5996" width="68" height="48" rx="2" transform="rotate(-15 -6 64.5996)" fill="#DC893C"/>
+<rect x="4" y="58" width="68" height="48" rx="2" fill="#FFAE41"/>
+<rect x="4" y="69" width="68" height="10" fill="#DC893C"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M48.5 88C48.5 87.1716 49.1716 86.5 50 86.5L64 86.5C64.8284 86.5 65.5 87.1716 65.5 88C65.5 88.8284 64.8284 89.5 64 89.5L50 89.5C49.1716 89.5 48.5 88.8284 48.5 88Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M57.5 94C57.5 93.1716 58.1716 92.5 59 92.5L64 92.5C64.8284 92.5 65.5 93.1716 65.5 94C65.5 94.8284 64.8284 95.5 64 95.5L59 95.5C58.1716 95.5 57.5 94.8284 57.5 94Z" fill="white"/>
+<path d="M77.5 56C84.9558 56 91 49.9558 91 42.5C91 35.0442 84.9558 29 77.5 29C70.0442 29 64 35.0442 64 42.5C64 49.9558 70.0442 56 77.5 56Z" fill="#1C9E59"/>
+<circle cx="84" cy="111" r="2" transform="rotate(-90 84 111)" fill="#B3BEC9"/>
+<circle cx="92" cy="111" r="2" transform="rotate(-90 92 111)" fill="#B3BEC9"/>
+<circle cx="100" cy="111" r="2" transform="rotate(-90 100 111)" fill="#F84747"/>
+<circle cx="108" cy="111" r="2" transform="rotate(-90 108 111)" fill="#B3BEC9"/>
+<circle cx="84" cy="103" r="2" transform="rotate(-90 84 103)" fill="#0085FF"/>
+<circle cx="84" cy="95" r="2" transform="rotate(-90 84 95)" fill="#B3BEC9"/>
+<circle cx="84" cy="87" r="2" transform="rotate(-90 84 87)" fill="#B3BEC9"/>
+<circle cx="84" cy="79" r="2" transform="rotate(-90 84 79)" fill="#B3BEC9"/>
+<circle cx="84" cy="71" r="2" transform="rotate(-90 84 71)" fill="#B3BEC9"/>
+<circle cx="84" cy="63" r="2" transform="rotate(-90 84 63)" fill="#B3BEC9"/>
+<circle cx="92" cy="103" r="2" transform="rotate(-90 92 103)" fill="#B3BEC9"/>
+<circle cx="92" cy="95" r="2" transform="rotate(-90 92 95)" fill="#B3BEC9"/>
+<circle cx="92" cy="87" r="2" transform="rotate(-90 92 87)" fill="#B3BEC9"/>
+<circle cx="92" cy="79" r="2" transform="rotate(-90 92 79)" fill="#B3BEC9"/>
+<circle cx="92" cy="71" r="2" transform="rotate(-90 92 71)" fill="#B3BEC9"/>
+<circle cx="92" cy="63" r="2" transform="rotate(-90 92 63)" fill="#B3BEC9"/>
+<circle cx="100" cy="103" r="2" transform="rotate(-90 100 103)" fill="#B3BEC9"/>
+<circle cx="108" cy="103" r="2" transform="rotate(-90 108 103)" fill="#B3BEC9"/>
+<circle cx="100" cy="95" r="2" transform="rotate(-90 100 95)" fill="#B3BEC9"/>
+<circle cx="108" cy="95" r="2" transform="rotate(-90 108 95)" fill="#B3BEC9"/>
+<circle cx="100" cy="87" r="2" transform="rotate(-90 100 87)" fill="#B3BEC9"/>
+<circle cx="108" cy="87" r="2" transform="rotate(-90 108 87)" fill="#B3BEC9"/>
+<circle cx="100" cy="79" r="2" transform="rotate(-90 100 79)" fill="#B3BEC9"/>
+<circle cx="108" cy="79" r="2" transform="rotate(-90 108 79)" fill="#B3BEC9"/>
+<circle cx="100" cy="71" r="2" transform="rotate(-90 100 71)" fill="#B3BEC9"/>
+<circle cx="108" cy="71" r="2" transform="rotate(-90 108 71)" fill="#B3BEC9"/>
+<circle cx="100" cy="63" r="2" transform="rotate(-90 100 63)" fill="#9C1EFF"/>
+<circle cx="108" cy="63" r="2" transform="rotate(-90 108 63)" fill="#B3BEC9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M77.5 33.5C78.3284 33.5 79 34.1716 79 35V35.7059H80.4118C82.1174 35.7059 83.5 37.0885 83.5 38.7941C83.5 39.6225 82.8284 40.2941 82 40.2941C81.1716 40.2941 80.5 39.6225 80.5 38.7941C80.5 38.7454 80.4605 38.7059 80.4118 38.7059H75C74.7239 38.7059 74.5 38.9297 74.5 39.2059V40.5C74.5 40.7761 74.7239 41 75 41H80C81.933 41 83.5 42.567 83.5 44.5V45.7941C83.5 47.7271 81.933 49.2941 80 49.2941H79V49.9996L77.5 50L76 50V49.2941H74.5882C72.8826 49.2941 71.5 47.9115 71.5 46.2059C71.5 45.3775 72.1716 44.7059 73 44.7059C73.8284 44.7059 74.5 45.3775 74.5 46.2059C74.5 46.2546 74.5395 46.2941 74.5882 46.2941H77.4958C77.4972 46.2941 77.4986 46.2941 77.5 46.2941C77.5014 46.2941 77.5028 46.2941 77.5042 46.2941H80C80.2761 46.2941 80.5 46.0703 80.5 45.7941V44.5C80.5 44.2239 80.2761 44 80 44H75C73.067 44 71.5 42.433 71.5 40.5V39.2059C71.5 37.2729 73.067 35.7059 75 35.7059H76V35C76 34.1716 76.6716 33.5 77.5 33.5ZM77.5 50L76 50C76 50.8284 76.6716 51.5 77.5 51.5C78.3284 51.5 79 50.828 79 49.9996L77.5 50Z" fill="white"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_10502_53556">
+<rect x="13" y="19" width="96" height="96" rx="48" fill="white"/>
+</clipPath>
+</defs>
+</svg>

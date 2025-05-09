@@ -1,0 +1,42 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_10502_57375)">
+<rect width="200" height="200" rx="100" fill="#E4EBF0"/>
+<path d="M159.375 141.666C174.908 141.666 187.5 129.074 187.5 113.541C187.5 98.008 174.908 85.416 159.375 85.416C143.842 85.416 131.25 98.008 131.25 113.541C131.25 129.074 143.842 141.666 159.375 141.666Z" fill="#1C9E59"/>
+<path d="M150 114.628L155.099 120.201C155.87 121.044 157.12 121.044 157.891 120.201L168.75 108.333" stroke="white" stroke-width="6.25" stroke-linecap="round"/>
+<rect x="-41.6667" y="88.749" width="141.667" height="100" rx="4.16667" transform="rotate(-15 -41.6667 88.749)" fill="#59059B"/>
+<rect x="-20.8333" y="75" width="141.667" height="100" rx="4.16667" fill="#9C1EFF"/>
+<rect x="-20.8333" y="97.917" width="141.667" height="20.8333" fill="#59059B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M71.875 137.5C71.875 135.774 73.2741 134.375 75 134.375L104.167 134.375C105.893 134.375 107.292 135.774 107.292 137.5C107.292 139.226 105.893 140.625 104.167 140.625L75 140.625C73.2741 140.625 71.875 139.226 71.875 137.5Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M90.625 150C90.625 148.274 92.0241 146.875 93.75 146.875L104.167 146.875C105.893 146.875 107.292 148.274 107.292 150C107.292 151.726 105.893 153.125 104.167 153.125L93.75 153.125C92.0241 153.125 90.625 151.726 90.625 150Z" fill="white"/>
+<circle cx="127.083" cy="64.5833" r="4.16667" transform="rotate(-90 127.083 64.5833)" fill="#B3BEC9"/>
+<circle cx="143.75" cy="64.5833" r="4.16667" transform="rotate(-90 143.75 64.5833)" fill="#B3BEC9"/>
+<circle cx="160.417" cy="64.5833" r="4.16667" transform="rotate(-90 160.417 64.5833)" fill="#B3BEC9"/>
+<circle cx="177.083" cy="64.5833" r="4.16667" transform="rotate(-90 177.083 64.5833)" fill="#B3BEC9"/>
+<circle cx="193.75" cy="64.5833" r="4.16667" transform="rotate(-90 193.75 64.5833)" fill="#B3BEC9"/>
+<circle cx="127.083" cy="47.9163" r="4.16667" transform="rotate(-90 127.083 47.9163)" fill="#B3BEC9"/>
+<circle cx="143.75" cy="47.9163" r="4.16667" transform="rotate(-90 143.75 47.9163)" fill="#B3BEC9"/>
+<circle cx="160.417" cy="47.9163" r="4.16667" transform="rotate(-90 160.417 47.9163)" fill="#F84747"/>
+<circle cx="177.083" cy="47.9163" r="4.16667" transform="rotate(-90 177.083 47.9163)" fill="#B3BEC9"/>
+<circle cx="193.75" cy="47.9163" r="4.16667" transform="rotate(-90 193.75 47.9163)" fill="#B3BEC9"/>
+<circle cx="127.083" cy="31.2503" r="4.16667" transform="rotate(-90 127.083 31.2503)" fill="#0085FF"/>
+<circle cx="127.083" cy="14.5833" r="4.16667" transform="rotate(-90 127.083 14.5833)" fill="#B3BEC9"/>
+<circle cx="127.083" cy="-2.08366" r="4.16667" transform="rotate(-90 127.083 -2.08366)" fill="#B3BEC9"/>
+<circle cx="143.75" cy="31.2503" r="4.16667" transform="rotate(-90 143.75 31.2503)" fill="#B3BEC9"/>
+<circle cx="143.75" cy="14.5833" r="4.16667" transform="rotate(-90 143.75 14.5833)" fill="#B3BEC9"/>
+<circle cx="143.75" cy="-2.08366" r="4.16667" transform="rotate(-90 143.75 -2.08366)" fill="#B3BEC9"/>
+<circle cx="160.417" cy="31.2503" r="4.16667" transform="rotate(-90 160.417 31.2503)" fill="#B3BEC9"/>
+<circle cx="177.083" cy="31.2503" r="4.16667" transform="rotate(-90 177.083 31.2503)" fill="#B3BEC9"/>
+<circle cx="193.75" cy="31.2503" r="4.16667" transform="rotate(-90 193.75 31.2503)" fill="#B3BEC9"/>
+<circle cx="160.417" cy="14.5833" r="4.16667" transform="rotate(-90 160.417 14.5833)" fill="#B3BEC9"/>
+<circle cx="177.083" cy="14.5833" r="4.16667" transform="rotate(-90 177.083 14.5833)" fill="#B3BEC9"/>
+<circle cx="193.75" cy="14.5833" r="4.16667" transform="rotate(-90 193.75 14.5833)" fill="#B3BEC9"/>
+<circle cx="160.417" cy="-2.08366" r="4.16667" transform="rotate(-90 160.417 -2.08366)" fill="#B3BEC9"/>
+<circle cx="177.083" cy="-2.08366" r="4.16667" transform="rotate(-90 177.083 -2.08366)" fill="#B3BEC9"/>
+<circle cx="193.75" cy="-2.08366" r="4.16667" transform="rotate(-90 193.75 -2.08366)" fill="#B3BEC9"/>
+</g>
+<defs>
+<clipPath id="clip0_10502_57375">
+<rect width="200" height="200" rx="100" fill="white"/>
+</clipPath>
+</defs>
+</svg>
